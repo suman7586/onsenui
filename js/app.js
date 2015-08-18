@@ -67,7 +67,7 @@ var app = {
     
     // Enter here YOUR API BASE URL that you have defined to JSON API Settings
     // Example: http://www.domain.com/api/
-    var api_url = 'http://localhost/wordpress/?json';
+    var api_url = 'http://vps16219.inmotionhosting.com/~seva605/phoneGap/?json';
     
     // Login Controller
     app.controller('LoginController', function($scope, $http, UserStorage, AuthCookieStorage) {

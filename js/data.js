@@ -8,7 +8,7 @@ sensationApp.factory('ServerPostsData', function(){
     
     /* Set your URL as you can see in the following example */
     /* NOTE: In case of the default permalinks, you should add '&' at the end of the url */
-     var data = { url: 'http://localhost/wordpress/?json=get_recent_posts&' };
+     var data = { url: 'http://vps16219.inmotionhosting.com/~seva605/phoneGap/?json=get_recent_posts&' };
     
     /* With user-friendly permalinks configured */
     /* NOTE: In case of the user-friendly permalinks, you should add '?' at the end of the url */
